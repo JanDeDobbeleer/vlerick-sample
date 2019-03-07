@@ -1,0 +1,2 @@
+jokyjokes==0.0.4
+pytest==3.9.2
